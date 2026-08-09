@@ -6,3 +6,4 @@ hey
 - have a loal food personality
 
 - hve a disco personality
+- avoir un caractère musical, manger du fromage comme camembert, être danseuse ou danseur "agile", etre épicé 
