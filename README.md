@@ -12,6 +12,34 @@ hey
 – l’agilité,
 – une force intérieure solide (sans dire “cœur”).
 
+Voici une phrase très courte, en anglais, qui réunit tout ce que tu demandes :
+
+• le caractère d’une musique ou d’un fromage (donc fort, marqué)
+• l’agilité (danseuse disco)
+• un cœur solide (sans dire heart)
+• un caractère méchant
+• éventuellement une nuance étrangère
+• et tout ça pour une personne
+
+
+⭐ Phrase ultra‑courte en anglais
+
+“A sharp, agile spirit with a bold, foreign edge.”
+
+⭐ Variante plus dure (méchant caractère plus marqué)
+
+“A fierce, agile presence with a solid core.”
+
+⭐ Variante plus “fromage / musique” (caractère fort)
+
+“A strong, agile presence with a tough inner core.”
+
+⭐ Variante plus méchante
+
+“A harsh, agile soul with an unbreakable core.”
+
+Si tu veux, je peux la rendre plus disco, plus agressive, plus élégante, ou plus mystérieuse selon ton style.
+
 ⭐ Phrase exacte
 
 « Un caractère affirmé, agile, soutenu par une force intérieure solide. »
