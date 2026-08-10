@@ -1,5 +1,31 @@
+{% extends 'base.html' %}
+
+{% block montitre %}
+debut de mes mots: bienvenue dans discotracker
+{% endblock %}
+{% block content %}
 <h1># disco-tracker</h1>
-<p>nouriiture : fromage, gout musique : pop, caractere : agile, phone number : european</p>
-<p>gout musique : pop, caractere : agile, phone number : european</p>
-<p>entre quels sont tes gouts de musique, trouve tes points communs avec d'autre gens <textarea></textarea></p>
-<p>partir à l'aventure du crepuscule e l'aube </p>
+{% for x in users | reverse %}
+ <li>{{ x["first_name"]  }}</li>
+
+{% endfor %} 
+fin de mes mots : Voici une sélection de adjectifs et dexpressions uniques qui capturent parfaitement tous ces traits de caractère pour une fille.
+## Les adjectifs en un seul mot
+
+* Corsée : Évoque directement le caractère dun fromage fort ou dun café puissant, appliqué à une personnalité entière et marquée.
+* Féroce : Traduit à la fois le côté méchant, lagressivité de la danseuse disco sur scène et une force intérieure indomptable.
+* Robuste : Qualifie une constitution ou une force morale solide comme le roc, sans jamais mentionner le mot cœur.
+* Souple : Rappelle lagilité physique de la danseuse ainsi quune capacité dadaptation rapide.
+* Tempétueuse : Un tempérament fort, imprévisible et parfois méchant, qui rappelle une force de la nature.
+
+## Les options avec une nuance étrangère
+
+* Spicy (Anglais) : Évoque le piquant (fromage/caractère fort), le style dynamique (disco) et un côté piquant parfois difficile à gérer.
+* Grintosa (Italien) : Qualifie une fille qui a du punch, de la détermination, une force solide et une énergie débordante.
+* Recia (Espagnol) : Désigne une femme forte, solide, au caractère bien trempé et résistant à toutes les épreuves.
+* Brat (Anglais) : Désigne une fille au caractère difficile, insolente ou méchante, mais avec une attitude très pop, agile et assumée.
+{% endblock %}
+{% block liens %}
+<a href="/">welcome</a>
+{% endblock %}
+<a href="/add_one_user"> add one user</a><a href="/add_one_userhasreviews"> add one userhasreviews</a><a href="/add_one_discosong"> add one discosong</a><a href="/add_one_food"> add one food</a><a href="/add_one_dance"> add one dance</a><a href="/add_one_userhasdance"> add one userhasdance</a><a href="/add_one_userhasfood"> add one userhasfood</a><a href="/add_one_artisthassong"> add one artisthassong</a><a href="/add_one_city"> add one city</a><a href="/add_one_country"> add one country</a><a href="/add_one_nightclub"> add one nightclub</a><a href="/add_one_nightclubhassong"> add one nightclubhassong</a><a href="/add_one_userhasnightclub"> add one userhasnightclub</a><a href="/add_one_userdating"> add one userdating</a>
