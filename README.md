@@ -11,6 +11,8 @@ hey
 – le caractère (comme une musique ou un fromage),
 – l’agilité,
 – une force intérieure solide (sans dire “cœur”).
+- You don't try to figure things out, as if you already know everything by heart
+- you're finding your sound
 
 Voici une phrase très courte, en anglais, qui réunit tout ce que tu demandes :
 
